@@ -10,7 +10,7 @@ import { faCoffee } from "@fortawesome/free-solid-svg-icons"
 
 export const socialLinks = [
   {
-    name: "Buy me a coffee",
+    name: "Buy us a coffee",
     url: "https://www.buymeacoffee.com/codingbrah",
     icon: faCoffee,
   },
@@ -39,6 +39,11 @@ export const socialLinks = [
   {
     name: "Codingbrah creator - Kamil",
     url: "https://www.linkedin.com/in/kamilkedzierski94/",
+    icon: faLinkedin,
+  },
+  {
+    name: "Codingbrah creator - Kacper",
+    url: "https://www.linkedin.com/in/kacperszarkiewicz/",
     icon: faLinkedin,
   },
   {
