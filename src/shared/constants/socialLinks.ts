@@ -5,6 +5,7 @@ import {
   faGooglePlay,
   faGithub,
   faLinkedin,
+  faYoutube,
 } from "@fortawesome/free-brands-svg-icons"
 import { faCoffee } from "@fortawesome/free-solid-svg-icons"
 
@@ -24,6 +25,11 @@ export const socialLinks = [
     name: "Twitch",
     url: "https://www.twitch.tv/codingbrah/",
     icon: faTwitch,
+  },
+  {
+    name: "YouTube",
+    url: "https://www.youtube.com/channel/UClT4aGR_Y1Px4YmIu_YlbKQ",
+    icon: faYoutube,
   },
   { name: "Github", url: "https://github.com/codingbrah/", icon: faGithub },
   {
