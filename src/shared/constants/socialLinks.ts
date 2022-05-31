@@ -51,7 +51,6 @@ export const socialLinks = [
     url: "https://www.linkedin.com/in/mskw/",
     icon: faLinkedin,
   },
-
   {
     name: "React Native game that we've created for fun (Android only)",
     url: "https://play.google.com/store/apps/details?id=com.reactlify",
